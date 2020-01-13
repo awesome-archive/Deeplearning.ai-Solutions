@@ -22,6 +22,8 @@ GTC 在 Smartling 平台进行的中文翻译，是根据 Coursera 提供的英�
 ## 翻译进度
 字幕文件统一在仓库根目录srt文件夹中提供。
 
+管理人员 AcceptedDoge 因为时间原因停止参与项目翻译，字幕审核与更新速度可能会受到一定程度影响。
+
 此处更新的进度未必是最新进度，Smartling进度不会在此公开，一切以内部协作表格为准。
 
 | 编号     | 课程名                                          | srt进度  |
@@ -53,19 +55,25 @@ GTC 在 Smartling 平台进行的中文翻译，是根据 Coursera 提供的英�
 | 02.16    | A note on python/numpy vectors                 | 完成     |
 | 02.17    | Quick tour of Jupyter/iPython Notebooks        | 完成     |
 | 02.18    | Explanation of logistic regression cost function (optional) | 完成     |
-| 02.19    | Pieter Abbeel interview                        | 未完成   |
+| 02.19    | Pieter Abbeel interview                        | 完成   |
 | 第三周   | Shallow neural networks                         |          |
 | 03.01   | Neural Networks Overview                        | 完成     |
 | 03.02   | Neural Network Representation                   | 完成     |
 | 03.03   | Computing a Neural Network's Output             | 完成     |
+| 03.06   | Activation functions                             | 完成     |
+| 03.09   | Gradient descent for Neural Networks           | 完成     |
 
-
+后续进度更新统一在最下方链接致谢页面thanks给出。
 
 ## 版权声明
 我们不提供 Coursera 方面的视频源下载，该专项课程可旁听，所有MP4内容都可由用户自行在 Coursera 进行下载。我们不提倡在未经过授权的情况下，将视频进行二次制作并上传至其它网站。
 
 ## 其它事项
 我们将在[另外一个页面](./thanks.md)公布参与翻译的人员名单和具体信息。
+
+欢迎查看[GTC翻译与项目信息](https://github.com/Yukong/Deeplearning.ai-Solutions/blob/master/GTC_Yukon.md)。
+
+如果没有条件观看Coursera视频的同学可以去看[网易](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)翻译的版本。
 
 （此页面维护人员 @AcceptedDoge）
 
